@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Ro</h1>
 <h3 align="center">A passionate Python and Web Developer</h3>
 
-<p align="left"> <img src="[https://tenor.com/brXT6.gif](https://tenor.com/brXT6.gif)" alt="jmr54" /> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on a [Client's Portfolio](https://andyro.com)
 
