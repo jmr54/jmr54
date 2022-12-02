@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Ro</h1>
 <h3 align="center">A passionate Python and Web Developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jmr54&label=Profile%20views&color=0e75b6&style=flat](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)" alt="jmr54" /> </p>
+<p align="left"> <img src="https://tenor.com/brXT6.gif" alt="jmr54" /> </p>
 
 - 🔭 I’m currently working on a [Client's Portfolio](https://andyro.com)
 
