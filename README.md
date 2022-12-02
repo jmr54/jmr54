@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://www.shutterstock.com/image-vector/programming-banner-coding-best-languages-600w-1078387013.jpg](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000))](https://johnro.dev)
 <h1 align="center">Hi 👋, I'm John Ro</h1>
 <h3 align="center">A passionate Python and Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on a [Client's Portfolio](https://andyro.com)
 
