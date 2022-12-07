@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **roj@oregonstate.edu**
 
-- ⚡ Fun fact **I have a degree in Psychology**
+- ⚡ Fun fact **I have a degree in Computer Science, Electrical Engineering and Psychology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
