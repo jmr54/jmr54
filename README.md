@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000)](https://johnro.dev)
 <h1 align="center">Hi 👋, I'm John Ro</h1>
-<h3 align="center">A passionate Python and Web Developer</h3>
+<h3 align="center">A Passionate Python and Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
