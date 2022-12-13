@@ -27,7 +27,7 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB"align="center">📊 Statistics</h2>
 
 
 <!-- Begin Stats Cards -->
