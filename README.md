@@ -4,11 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on a [Client's Portfolio](https://andyro.com)
+- 🔭 I’m currently working on a [Client's Portfolio](https://jmr54.github.io/Fishing/)
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [github.com/jmr54](github.com/jmr54)
+- 👨‍💻 All of my projects are available at [github.com/jmr54](https://github.com/jmr54)
 
 - 📝 Check out my web portfolio [https://johnro.dev](https://johnro.dev)
 
