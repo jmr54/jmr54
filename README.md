@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on a [Client's Portfolio](https://jmr54.github.io/Fishing/)
+- 🔭 I’m currently helping a [Client's Portfolio](https://jmr54.github.io/Fishing/)
 
 - 🌱 I’m currently learning **C++**
 
