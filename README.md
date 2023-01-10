@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **I have a degree in Computer Science, Electrical Engineering and Psychology**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
